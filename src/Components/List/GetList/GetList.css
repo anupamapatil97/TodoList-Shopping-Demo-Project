@@ -1,0 +1,25 @@
+
+.card{
+
+  width: 24%;
+    height: 200px;
+    background-color: #eee;
+    text-align: center;
+    padding: 10px;
+}
+.card h2{
+    color: 	#008B8B;
+    font-size: 28px;
+    padding: 10px;
+}
+.card p{
+    font-size: 22px;
+    color: 	#2F4F4F;
+}
+.delete-product{
+    background-color:red;
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    border: none
+}
